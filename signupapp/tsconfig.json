@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-, "../signupapp/src/ui", "../signupapp/src/redux", "../signupapp/src/pages", "../signupapp/src/modules"  ]
+  ]
 }
